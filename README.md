@@ -34,4 +34,4 @@ The following technologies were used in building this model API
 Sou um {backend e frontend} familiarizado com as seguintes tecnologias: Java, Keycloak, Spring Framework, Spring Boot, Spring Data, Spring Security, JPA, Hibernate, PostgreSQL, Apache Maven, JavaScript, TypeScript, Angular, HTML5, CSS3, Bootstrap e Git
 - [GitHub](https://github.com/phillippimenta)
 - [LinkedIn](https://www.linkedin.com/in/phillippimenta)
-- [E-mail](https://www.linkedin.com/in/phillippimenta)
+- [E-mail](mailto:phillippimenta@gmail.com)
