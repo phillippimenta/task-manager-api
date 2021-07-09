@@ -1,6 +1,6 @@
 # task-manager-api
 
-### Project demonstrating the construction of an example Rest API with Spring Boot, Java 11 and H2 Database
+### Project demonstrating the construction of a Rest API with Spring Boot, Java 11 and H2 Database
 
 <h4 align="center"> 
 	Task Manager API 🚀 finished
