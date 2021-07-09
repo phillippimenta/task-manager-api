@@ -31,7 +31,7 @@ The following technologies were used in building this model API
 ### Phillip Eduardo Pimenta Forte
 
 ### About me
-Sou um {backend e frontend} familiarizado com as seguintes tecnologias: Java, Keycloak, Spring Framework, Spring Boot, Spring Data, Spring Security, JPA, Hibernate, PostgreSQL, Apache Maven, JavaScript, TypeScript, Angular, HTML5, CSS3, Bootstrap e Git
+I am a {backend and frontend} familiar with the following technologies: Java, Keycloak, Spring Framework, Spring Boot, Spring Data, Spring Security, JPA, Hibernate, PostgreSQL, Apache Maven, JavaScript, TypeScript, Angular, HTML5, CSS3, Bootstrap and Git
 - [GitHub](https://github.com/phillippimenta)
 - [LinkedIn](https://www.linkedin.com/in/phillippimenta)
 - [E-mail](mailto:phillippimenta@gmail.com)
